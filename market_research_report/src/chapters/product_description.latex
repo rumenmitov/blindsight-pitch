@@ -1,0 +1,49 @@
+\chapter{Product Description}
+The technology behind BlindSight has been selected to provide developers with
+the ability to iterate fast, while providing efficient solutions to numerous problems
+that visually impaired individuals face in their daily lives. BlindSight's ability to move
+and innovate quickly will be key in developing a minimal viable product and catching up to the 
+competition.\\
+\\
+The ultimate goal of BlindSight is to enable blind people to achieve higher levels of independence,
+thereby enabling them in achieving their personal and professional goals. The technology in use can
+be divided into 3-sections: the hardware, the mobile app, and the backend. \\
+\section{The Mobile App} 
+The mobile app will be used to communicate to the backend via web sockets. It will also host a less resource-intensive AI model
+to ensure that the product will function even when the server is not reachable. Another functionality of the app is that it will
+include geolocation services such as Google Maps as to provide navigation assistance and to allow friends, family and emergency services
+to know the whereabouts of the user in case of any trouble. \\
+\\
+The app will be implemented in the Flutter framework due to the framework having a good native performance and its ability 
+to produce multi-platform applications from a single codebase. \\
+\newpage
+
+\section{The Backend}
+The backend will be responsible for hosting the AI model and the web sockets server (implemented in NodeJS) for the mobile app. BlindSight will be using 
+Firebase for the backend along with Google's ML Kit. \\
+\begin{figure}[!b]
+    \centering
+    \caption{Overview of the BlindSight tech stack.}
+    \includegraphics[width=10cm, height=8cm]{tech_stack.png}
+\end{figure}
+
+\section{The Hardware}
+The hardware consists of smart glasses and a pair of bracelets equipped with vibrator motors.
+The smart glasses will include Bluetooth technology in order to be able to communicate the mobile
+app, as well as a micro camera, a microphone and a speaker. The camera will stream the video of the 
+environment to the mobile app. The user will be able to request certain functionality via the microphone, 
+which will also be passed to the mobile app. \\
+\\
+Once the mobile app has returned a response the speaker will relay the information to the user. If required the bracelets will
+vibrate according to the need. \\
+\\
+The hardware will be packaged and sold as an extension set, and it will release after sufficient funds have been acquired from 
+the mobile app's subscription fees.
+\\
+\begin{figure}
+    \centering
+    \caption{Overview of the BlindSight hardware.}
+    \includegraphics[width=10cm, height=8cm]{hardware_diagram.png}
+\end{figure}
+\\
+\\

@@ -1,0 +1,22 @@
+\contentsline {chapter}{\numberline {1}Abstract}{2}{}%
+\contentsline {chapter}{\numberline {2}Introduction}{3}{}%
+\contentsline {chapter}{\numberline {3}Market Analysis}{4}{}%
+\contentsline {chapter}{\numberline {4}Competitor Analysis}{9}{}%
+\contentsline {section}{\numberline {4.1}Competitor 1: Envision}{9}{}%
+\contentsline {section}{\numberline {4.2}Competitor 2: Be My Eyes}{11}{}%
+\contentsline {section}{\numberline {4.3}Competitor 3: .lumen}{12}{}%
+\contentsline {chapter}{\numberline {5}Product Description}{13}{}%
+\contentsline {section}{\numberline {5.1}The Mobile App}{13}{}%
+\contentsline {section}{\numberline {5.2}The Backend}{14}{}%
+\contentsline {section}{\numberline {5.3}The Hardware}{14}{}%
+\contentsline {chapter}{\numberline {6}Product Features}{16}{}%
+\contentsline {section}{\numberline {6.1}Mobile App Features}{16}{}%
+\contentsline {section}{\numberline {6.2}Extension Set Features}{17}{}%
+\contentsline {chapter}{\numberline {7}Distribution Strategy}{18}{}%
+\contentsline {section}{\numberline {7.1}Philosophy}{18}{}%
+\contentsline {section}{\numberline {7.2}Product Development}{18}{}%
+\contentsline {section}{\numberline {7.3}Distribution}{18}{}%
+\contentsline {section}{\numberline {7.4}Sales}{19}{}%
+\contentsline {section}{\numberline {7.5}Goals}{19}{}%
+\contentsline {chapter}{\numberline {8}Financial Projections}{20}{}%
+\contentsline {chapter}{\numberline {9}Conclusion}{21}{}%

@@ -1,0 +1,126 @@
+\chapter{Market Analysis}
+The target market of our product mainly consists of individuals who are considered legally blind,
+i.e. people whose vision cannot be corrected to 20/20 with traditional visual 
+aids\footnote{https://www.allaboutvision.com/conditions/lowvision/visual-impairment/}. Furthermore, our
+outreach can extend to those who are visually impaired to such an extent that they are inept
+at accomplishing everyday tasks independently. According to the 2018 National Health 
+Survey\footnote{https://www.who.int/news-room/fact-sheets/detail/blindness-and-visual-impairment}, 32.2 
+million American adults report suffering from significant vision loss.  \\
+\\
+Globally, Statista reports that there are a total of 43.28 million who are considered 
+blind\footnote{https://www.statista.com/statistics/1237876/number-blindness-by-age-gender/}.
+The majority of the target market is aged 50 years or older (they account for roughly 78\% of 
+all blind people). Older people are disadvantaged by a plethora of age-related factors such as 
+slower reaction 
+time\footnote{https://www.health.harvard.edu/blog/my-fall-last-fall-201603149311}.
+Coupled with the loss of vision, an elder person is rather vulnerable
+to external dangers, from crossing the road to tripping over a pot-hole in the ground. Moreover,
+there are many cases of poorly thought-out infrastructure which is inaccessible for those without 
+vision. Navigation is essential for everyday work and it sub-consciously adds to our 
+perception of self-worth. The absence to roam independently could 
+lead to feelings of anxiety, which could further spiral to other insecurities. 
+\begin{figure}[h!]
+\centering
+    \caption{A graphic from Statista showing the number of visually impaired people in the millions.}
+    \includegraphics[width=10cm, height=8cm]{blind_population_global.png}
+\end{figure}
+\newpage
+\noindent
+It is estimated that in geographical Europe the number of people experiencing visual impairment 
+exceeds 30,000,000 (with 3 million of those being diagnosed with blindness)\footnote{https://www.euroblind.org/about-blindness-and-partial-sight/facts-and-figures}. What is more troubling is the 
+unemployment rate of such persons (that are of working age) is over 75\%. It is clear that an affordable solution is needed to 
+help such high rates. \\
+\\
+Yet another factor to consider is all the resource that go in supporting people with vision loss.
+The WHO estimates that the financial burden of vision loss tallies to 
+US\$ 411 billion\footnote{https://www.who.int/news-room/fact-sheets/detail/blindness-and-visual-impairment}. The high 
+price tag can be attributed to not only the costs of supporting blind people, but also the 
+loss of productivity due to the disability. \\
+\\
+The final problem our product seeks to tackle is the difficulty many visually impaired people
+face when trying to read a text, or more generally when they interact with objects. While solutions
+for making written text accessible to the target market do exist, they are either limited in number 
+or rather hard to acquire. Braille books, for example, are more costly than their non-braille 
+counterparts as they are more costly to 
+produce\footnote{https://www.tckpublishing.com/braille-books/}.
+It must be acknowledged that devices
+such as reading pens aim to fix this issue, however they are not without their cons.
+Namely, they are skill-dependent; their accuracy depends heavily on the user's ability
+to move the pain reliably without too much shaking. Moreover, these pens are ineffective
+when it comes to reading street signs and other similar forms of written 
+communication\footnote{https://smarterlearningguide.com/reader-pens-for-dyslexia-are-they-right-for-your-child/}.
+The internet, an alternate source 
+of information and entertainment, can be similarly inaccessible to visually impaired people,
+as the interface of most webpages rely heavily on sight. What makes things worse
+is that it is not uncommon for developers to neglect the accessibility aspect of their
+web app. This leaves our target audience with a lackluster
+selection of sources with which they can educate and entertain themselves. The lack of vision
+furthermore hinders object interaction. People living with blind people have to be extremely careful 
+to leave everything in its rightful place, otherwise the blind person would be unable
+to navigate comfortably inside their own home\footnote{https://wecapable.com/problems-faced-by-blind-people/}. \\
+\\
+The sizeable population with impaired vision is severely disadvantaged in
+today's world, and their disability afflicts heavy losses to the global economy.
+Meanwhile, the current solutions on the market are not suitable for all the complex needs
+of our target market. Clearly, the market is in need of a brand new, innovative 
+product that will alleviate the weight that blindness imposes on society.
+
+\section*{SWOT Analysis}
+
+\subsection*{Strengths}
+The key to BlindSight's success will depend on the company's ability to provide the users of the 
+product with at least as many features our competitors for a fraction of the cost. Our product will
+focus on improving the way that the visually impaired navigate and interact with their surroundings
+with the use of the Blindsight mobile app. For cutting-edge navigational and interactive assistive technology
+BlindSight will offer an extension set which will include bracelets, whose haptic feedback will decrease the reaction time 
+that the user's need to respond to any oncoming dangers. Furthermore, the bracelets can make use of the haptic feedback to 
+signal to the user how close their hand is to a previously-specified object. This feature will aid the visually impaired
+in interacting with their environment. All of these functionalities and more will be available along with features already offered by BlindSight's
+competitors. \\
+\\
+The main selling point of BlindSight will be its extremely competitive subscription fee (it will be less than 1\% of the price
+that competitors offering similar features are charging). \\
+\\
+Yet another advantage that BlindSight has over most other competitors is that the product will not require
+any expensive hardware for basic use cases. All that will be needed for basic functionality is a phone app, which will be
+widely accessible due to the abundance of smartphone users globally. The accessibility of BlindSight's plethora of features, coupled
+with its affordable subscription price and its ease of accessibility make the product exceptionally competitive in a budding and
+an untapped market.
+
+\subsection*{Weaknesses}
+It must be mentioned that BlindSight is new to the market and its competitors have a head start in R\&D as well as in 
+brand recognition. However, due to BlindSight sharing some of the same strengths as the other market players (be that the many features
+that it offers, its wide availability, or simply the low price) the company is poised for success as the blueprint has been
+proven to work as evidenced by companies such as Envision. \\
+\\
+The lack of immediate capital of BlindSight will force the company to expand slower at the start. However, once the mobile app 
+has released to production and there is a steady stream of capital this issue will be solved.
+
+\subsection*{Opportunities}
+BlindSight has a unique shot at cornering an area of the market that is lackluster as of now, namely targeting the users
+who cannot afford the feature-full premiums of some of the competitors. Furthermore, 
+one of BlindSight's core features is its network which will allow friends, family and emergency services to know the 
+whereabouts of the user in case of any mishap. Additionally, BlindSight's bracelets from the extension set
+will guide the users as to which way to turn in case of 
+an approaching danger. This solution will be far more effective in increasing the reaction time than a simple voice message. \\
+\\
+Finally, BlindSight's myriad of features will aid the visually impaired
+in more tasks throughout their day in a quicker, more user-friendly way. This will be possible via the BlindSight extension set which
+will consist of vibrator bracelets and smart glasses.
+
+\subsection*{Threats}
+BlindSight's challenges that it must overcome in order to secure a foothold
+in the market are few, and it is imperative that they be addressed. First off, once the extension set is made available to the public
+a repair team should be available in the case of any needed repairs to the hardware models. To combat this roadblock
+BlindSight will outsource the repairs as it save the company from having to hire workers and rent
+out offices. Where technical team is necessary
+to deal with malfunctioning units, a legal and accounting services will be needed to establish BlindSight's image
+as trustworthy. Hence, BlindSight plans on acquiring such services through consulting firms. \\
+\\
+The second obstacle that BlindSight faces is the reliance on an artificial intelligence model to determine the
+appropriate action that a user should undertake. It has become abundantly clear over the past year that AI models
+are far from perfect, hence actions must be taken to mitigate such risks that stem from BlindSight's reliance on such technologies.
+For instance, after the prototyping stage is deemed successful, the BlindSight team aims to train its own model
+that will be optimized to provide the user's with the most accurate information possible. In order to verify that such measures
+are successful BlindSight's product will be rigorously tested in different situations and any inadequacies will be
+dealt with. \\

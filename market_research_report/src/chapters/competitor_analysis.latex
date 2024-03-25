@@ -1,0 +1,97 @@
+\chapter{Competitor Analysis}
+With the rising popularity and prominence of artificial intelligence, it is expected
+that it could be used to tackle obstacles such as disabilities. However, the market
+for blindness-assisting technologies remains fairly unsaturated. Nevertheless, 
+the few noteworthy products listed below have a relatively good track record and are rapidly evolving.
+Despite this, there are some gaping holes still left unfilled, which BlindSight could
+provide a solution for. \\
+
+\section{Competitor 1: Envision}
+\textit{Envision website: https://letsenvision.com/} \\
+\\
+A product with such a wide array of features such as Envision will surely be a 
+worthy match to BlindSight. Their business offers worldwide shipping for their three
+models. Envision's glasses have a slick, lightweight design making them suitable
+for a full day's usage. The features of the Envision glasses vary based on the model: \\
+\\
+\begin{itemize}
+    \item Envision Glasses Read Edition: Instant Text, Scan Text, Batch Scan (€2499 + Tax)
+    \item Envision Glasses Home Edition: Instant Text, Scan Text, Batch Scan, Call an Ally, Call Aira, Describe Scene, Detect Light, Recognize Cash, Detect Colors, Find People, Find Objects, Teach a Face and Explore (€3499 + Tax)
+    \item Envision Glasses Professional Edition: Instant Text, Scan Text, Batch Scan, Call an Ally, Call Aira, Describe Scene, Detect Light, Recognize Cash, Detect Colors, Find People, Find Objects, Teach a Face and Explore (€4599 + Tax) 
+\end{itemize}
+The downside of the Envision Glasses is their premium price. The base model, the Envision Reading Edition, comes out
+to a hefty €2499 without tax. Being a base model, the Envision Reading Edition is missing many key features
+of the more expensive models; it only contains features dealing with interpreting scanned text. The subsequent model,
+the Envision Home Edition, possesses all the features, but it is €1000 more expensive to the Envision Reading Edition.
+The Envision Professional Edition, which as a reminder has the exact same features as the Envision Home Edition,
+will set back a buyer northwards of €4599. The concern with high prices such as these of the Envision models is that they price out
+many visually impaired customers out of the market. Moreover, they only come with a year's worth of warranty and for such 
+a pricey product many potential buyers could easily be deterred by the limited coverage period. A year's worth of warranty might 
+not provide adequate protection, especially for high-value items that could require more extensive coverage over 
+a longer period. As for the Envision Subscription Edition, it is only available in the contiguous United States, making it 
+inaccessible to potential consumers on the international market. Furthermore, despite
+the rental model saving the consumer money in the short-run, over the long-run the Envision Subscription edition could
+easily out-price the Home Edition and the Professional Edition. Over a two-year span, the Envision Subscription edition will have
+cost the consumer €3600 which would then increase to €5400 over a 3-year span. While there could be instances
+where one's blindness could be temporary, for many the disability will last for their entire lives. Hence, it is important
+that they have available an inexpensive alternative such as BlindSight that will serve to help them without putting a strain
+on their wallets.\\
+\\
+Despite Envision's head start in the market, they are focused on providing a premium product which leaves
+the door open to an alternative that would concentrate on making such technology more accessible to the international
+market. The success of Envision could serve as a blueprint to BlindSight as they are a proof-of-concept
+that smart glasses could have a substantial impact on the lives of those living with visual impairments. Moreover,
+Envision's products rely on voice feedback to the user which is much slower than the haptic feedback that the 
+BlindSight bracelets would provide on top of voice warnings. BlindSight will have all the functionality of Envision's most
+premium products in addition to a better danger warning system during navigation, all the while providing a product that
+is ten times more affordable than Envision's base model. \\
+\\
+\newpage
+\section{Competitor 2: Be My Eyes}
+\textit{Be My Eyes website: https://www.bemyeyes.com/ } \\
+\\
+Be My Eyes is an app that helps connect visually impaired people with volunteers,
+who can provide aid in discerning what is in front of the blind person. The app works is by establishing a video
+call between the visually impaired individual and the volunteer. The volunteer can then describe what he sees in the 
+video to the visually impaired person. \\
+With the advent of ChatGPT-4, Be My Eyes has incorporated the AI into its product. Now, users can take a picture
+and record a message which is consequently transcribed to text and sent over to ChatGPT for analysis. \\
+\\
+Be My Eyes is a rather versatile tool considering with the added bonus that it is free of charge to use. However, a drawback is that in order
+for the video functionality to work, a volunteer is required to be online which renders the feature unreliable. As for the 
+ChatGPT-powered AI image detection, that is a rather arduous process for the user, who besides first opening the app, must then
+take a picture, record a message and only then can they send it for processing. \\
+\\
+BlindSight's features an upgrade to the ones Be My Eyes currently has. Furthermore, BlindSight understands the importance
+that conducting tasks independently has on one's perception of self-worth. Hence, all of BlindSight's functionalities
+will be entirely reliant on AI which will always be readily available, as opposed to the unreliable factor of whether
+there are any volunteers available to help. \\
+\\
+The main advantage that Be My Eyes has over BlindSight is that it is free to use. However, BlindSight's many other 
+utilities justify its subscription fee as the features will unlock new possibilities for the users which could
+not be accomplished using Be My Eyes. \\
+\\
+\newpage
+\section{Competitor 3: .lumen}
+\textit{.lumen website: https://www.dotlumen.com/ } \\
+\\
+A new competitor to the market, .lumen still does not have a product available. Their main area of focus is
+helping the visually impaired navigate through AI depth detection and image recognition software. Unfortunately,
+not much is known about the company or how much they will charge for their product. \\
+\\
+The scarcity of information regarding the product, makes any weakness analysis purely based on speculation. It is reasonable
+to assume that users will be notified of any dangers by a voice assistant embedded in the headset. This can prove to be rather 
+ineffective if the danger is fast-approaching and the user needs to react quickly. Furthermore, the headset itself looks fairly heavy
+and there exists a possible concern that a user will not be able to wear it for extended periods of time due to the eventual exhaustion on the 
+neck area. \\
+\\
+The company has not entered the marker yet, giving BlindSight an ample chance to catch up. Their product will surely require powerful 
+processors in order to utilize the AI tool set locally. This implies that the product will most likely have a premium price, making it
+inaccessible to poorer consumers. Rather than fitting all the technology into one bulky and awkward headset, BlindSight will utilize the 
+user's phone and the optional extension set to accomplish similar functionality to .lumen, all the meanwhile providing a more lightweight 
+solution. \\
+\\
+The company has had time to research and develop their product giving them a head start over BlindSight. The
+possibility that their AI will work offline and will be able to analyze the video recordings faster is an 
+area that BlindSight could potentially rival .lumen in by hosting a less powerful AI into the mobile app, for 
+cases where the main server is not easily reachable. \\

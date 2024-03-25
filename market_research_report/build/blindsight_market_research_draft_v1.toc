@@ -1,0 +1,15 @@
+\contentsline {chapter}{\numberline {1}Market Analysis}{2}{}%
+\contentsline {chapter}{\numberline {2}Competitor Analysis}{5}{}%
+\contentsline {section}{\numberline {2.1}Competitor 1: Envision}{5}{}%
+\contentsline {section}{\numberline {2.2}Competitor 2: Be My Eyes}{7}{}%
+\contentsline {section}{\numberline {2.3}Competitor 3: .lumen}{9}{}%
+\contentsline {chapter}{\numberline {3}Product Description}{11}{}%
+\contentsline {section}{\numberline {3.1}The Hardware}{11}{}%
+\contentsline {section}{\numberline {3.2}The Mobile App}{12}{}%
+\contentsline {section}{\numberline {3.3}The Backend}{12}{}%
+\contentsline {chapter}{\numberline {4}User Story}{14}{}%
+\contentsline {section}{\numberline {4.1}Danger Sense}{14}{}%
+\contentsline {section}{\numberline {4.2}Monitoring and Emergency Call}{14}{}%
+\contentsline {section}{\numberline {4.3}Navigation}{15}{}%
+\contentsline {section}{\numberline {4.4}Text Scanning and Translations}{15}{}%
+\contentsline {section}{\numberline {4.5}Object Interation}{15}{}%

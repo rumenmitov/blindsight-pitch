@@ -1,0 +1,52 @@
+\chapter{Product Features}
+BlindSight will distinguish itself from other competitors in the market by
+having the widest range of features. From object interaction to navigation, BlindSight
+will provide visually impaired individuals with the most complete package with which they can 
+achieve their daily tasks efficiently and independently. \\
+
+\section{Mobile App Features}
+
+\subsection*{Monitoring and Emergency Call}
+Should a user be unable to avoid the danger and becomes injured, they can call for help with a simple voice command which will alert
+his circle of friends and family who have downloaded the mobile as well as start a call to the emergency services. \\
+
+\subsection*{Navigation}
+BlindSight will utilize Google Maps to help visually impaired people navigate
+to their destinations safely. To select a place to go to, the user must only speak a voice command followed by the name of the
+destination and the instructions will be passed on to the app which will use the Google Maps API to guide the user to their destination. \\
+
+\subsection*{Text Scanning and Translations}
+Should the user desire to read something, all they have to do is speak a command and whatever is in front of them will be sent
+to an image processing AI which will extract the text and (if needed) send it to through Google Translate for a translation before
+returning the result to the mobile app, which will use text-to-speech software to relay the information back to the user.
+Additionally, user's will be able to specify which text they want the AI to read out (for example only the drinks section in a menu). \\
+
+\section{Extension Set Features}
+
+\subsection*{Danger Sense}
+The main selling point of BlindSight's extension set, Danger Sense will alert users of incoming obstacles and / or dangers
+not only via voice warnings as our other competitors do, but also with haptic feedback from the bracelets. Once an incoming 
+danger is detected by the AI, a decision will be made in which direction the user should turn to as to avoid the approaching threat.
+Depending on the direction chosen the appropriate bracelet will begin to vibrate. The vibrations will increase the closer the object
+is to the user. \\
+\\
+The haptic feedback will be much quicker than a voice warning as the user will know instinctively and instantly in which 
+direction to turn. Once the user has corrected their trajectory and has escaped the danger, the bracelet will stop vibrating letting
+the user know he can continue in the current direction he is travelling in. \\
+\\
+The feature will be integrated with the aforementioned Navigation capability of the BlindSight mobile app, thus
+upgrading the navigational capability of the product.
+
+\subsection*{Object Interaction}
+Users will be able to find inquire for the AI to describe the environment in front of them. Then, should they want to interact with
+an object their command will be passed to the AI, which will then guide their hand using voice commands and the vibrations (the vibrations grow stronger
+the closer the user's hand gets to the object) of the appropriate bracelet to the location of the object. \\
+\\
+The combinations of all these features will ensure that BlindSight will be able to provide users with
+a way to complete tasks independently, all the meanwhile keeping them safe from unexpected dangers.
+
+\subsection*{Enhancements of Mobile App Features}
+The extension set will enhance the mobile app features by the use of the smart glasses which will be easier to carry around, as opposed to
+constantly holding a phone in one hand. The extension set will communicate seamlessly with the app, thus providing
+a more user-friendly experience.
+
